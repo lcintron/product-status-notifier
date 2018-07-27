@@ -2,16 +2,16 @@
 Scrappes product pages of specific sites and checks for price/availability changes. Sends notification using IFTTT webhooks if changed.
 
 ## Features
-    - Poll web stores for product info
-    - Detect product parameter changes
-    - Sends notifications via WebHooks
-    - Customizable polling frequency
+- Poll web stores for product info
+- Detect product parameter changes
+- Sends notifications via WebHooks
+- Customizable polling frequency
 
 ### Scrapers
-    1. Newegg.com
-    2. Tigerdirect.com
-    3. B&H Photo
-    4. SabrePC.com
+1. Newegg.com
+2. Tigerdirect.com
+3. B&H Photo
+4. SabrePC.com
 
 ### Setup Notifications
  - Uses IFTTT webhooks
