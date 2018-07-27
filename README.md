@@ -23,17 +23,13 @@ Scrappes product pages of specific sites and checks for price/availability chang
  - Tested on .Net Framework 4.6.1
  
 ## Run
--Command Line:
+- Command Line:
   > .\ProductMonitorConsole.exe
-  -k, --key           (Default: ) IFTTT webhook key.
-
-  -e, --event         (Default: ) IFTTT webhook event name.
-
-  -i, --interval      (Default: 5) Time interval to check products.
-
-  -j, --jsonconfig    (Default: ) JSON configuration file to use.
-
-  --help              Display this help screen.
+      -k, --key           (Default: ) IFTTT webhook key.
+      -e, --event         (Default: ) IFTTT webhook event name.
+      -i, --interval      (Default: 5) Time interval to check products.
+      -j, --jsonconfig    (Default: ) JSON configuration file to use.
+      --help              Display this help screen.
 
 - Double click .exe and use commands to set webhooks key, webhook event name, polling interval, or json configuration file.
 
