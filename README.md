@@ -1,4 +1,8 @@
 # Product Status Notifier
+
+![Buildkite pass](https://img.shields.io/buildkite/3826789cf8890b426057e6fe1c4e683bdf04fa24d498885489/master.svg)
+![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)
+
 Scrappes product pages of specific sites and checks for price/availability changes. Sends notification using IFTTT webhooks if changed.
 
 ## Features
